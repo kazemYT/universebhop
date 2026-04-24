@@ -3,3 +3,5 @@
 
 pip install rich
 pip install pymem
+
+t.me/rmsquadqq
